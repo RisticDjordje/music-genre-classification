@@ -1,0 +1,5 @@
+1.5 test_acc:  0.8527777777777777
+2 test_acc:test_acc:  0.8527777777777777
+1.5 & 2s combined: test_acc:  0.8590078333650495
+5s Test accuracy: 0.8833333333333333
+combined: Test accuracy:  0.9370370365955212
